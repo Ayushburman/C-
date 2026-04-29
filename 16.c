@@ -37,7 +37,18 @@ Sometimes takes time to update.
 
 Then likely you only contributed on 30 distinct days.
 
-Example:
+Example:main
+
+or merged into main.
+
+If you commit only on side branches and never merge, they may not appear.
+
+Repo may be private with private contributions hidden
+
+GitHub Settings → Profile → Contributions
+
+Enable:
+
 20 commits on Monday
 10 Tuesday
 20 Wednesday
