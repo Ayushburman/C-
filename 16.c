@@ -7,6 +7,13 @@ n GitHub commit page, do you see your avatar beside commits?
 
 If not → email mismatch likely.
 
+Commits not pushed
+
+Local commits:
+
+git commit ...
+
+won’t count un
 Most common culprit:
 
 Run:
