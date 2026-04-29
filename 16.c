@@ -3,7 +3,13 @@ GitHub Settings → Profile → Contributions
 Enable:
 
 Include private con
+n GitHub commit page, do you see your avatar beside commits?
 
+If not → email mismatch likely.
+
+Most common culprit:
+
+Run:
 Local commits:
 Contribution graph can lag
 Contribution graph can lag
