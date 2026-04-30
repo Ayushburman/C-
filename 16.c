@@ -6,7 +6,16 @@ If you commit only on side branches and never merge, they may not appear.
 
 Repo may be private with private contributions hidden
 
-GitHub Settings → Profile → Contributions
+GitHub Settings → Profile → ContributionsGitHub Settings → Profile → Contributions
+
+Enable:main
+
+or merged into main.
+
+If you commit only on side branches and never merge, they may not appear.
+
+Repo may be private with private contributions hidden
+main
 
 Enable:
 GitHub Settings → Profile → Contributions
