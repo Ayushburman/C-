@@ -535,3 +535,12 @@ int main() {
 
     return 0;
 }
+------------
+#include <stdio.h>
+
+int main() {
+    int docked = 1;
+
+    printf(docked ? "Docking successful\n" : "Docking failed\n");
+    return 0;
+}
