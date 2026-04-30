@@ -404,3 +404,17 @@ int main() {
     printf("Weight: %.2f N\n", gravity(70));
     return 0;
 }
+-------
+
+#include <stdio.h>
+
+int main() {
+    int temps[3] = {120, -50, 60};
+
+    for(int i = 0; i < 3; i++)
+        printf("Planet %d Temp: %d°C\n", i+1, temps[i]);
+
+    return 0;
+}
+
+-----
