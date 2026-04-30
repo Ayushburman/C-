@@ -376,5 +376,20 @@ int main() {
     return 0;
 }
 -----
-1
+#include <stdio.h>
+
+int main() {
+    int choice;
+
+    printf("1. Mars\n2. Venus\nChoose planet: ");
+    scanf("%d", &choice);
+
+    switch(choice) {
+        case 1: printf("Heading to Mars!\n"); break;
+        case 2: printf("Heading to Venus!\n"); break;
+        default: printf("Unknown destination.\n");
+    }
+
+    return 0;
+}
     
