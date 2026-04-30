@@ -518,3 +518,11 @@ int main() {
 
     return 0;
 }
+---------
+#include <stdio.h>
+
+int main() {
+    int signal = 1011;
+    printf("Binary signal: %d\n", signal);
+    return 0;
+}
