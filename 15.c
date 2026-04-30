@@ -477,3 +477,16 @@ int main() {
     printf("Coordinates: (%d, %d)\n", x, y);
     return 0;
 }
+-------
+    #include <stdio.h>
+
+int main() {
+    int error = 0;
+
+    if(error == 0)
+        printf("System OK\n");
+    else
+        printf("Error detected\n");
+
+    return 0;
+}
