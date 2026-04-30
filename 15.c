@@ -327,3 +327,15 @@ int main() {
 }
 
 --------
+#include <stdio.h>
+
+int main() {
+    int fuel = 80;
+
+    if(fuel > 50)
+        printf("Fuel sufficient for journey.\n");
+    else
+        printf("Refuel needed!\n");
+
+    return 0;
+}
