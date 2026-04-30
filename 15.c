@@ -504,3 +504,17 @@ int main() {
 
     return 0;
 }
+
+------
+#include <stdio.h>
+
+int main() {
+    int speed = 0;
+
+    do {
+        speed += 10;
+        printf("Speed: %d\n", speed);
+    } while(speed < 50);
+
+    return 0;
+}
