@@ -339,3 +339,15 @@ int main() {
 
     return 0;
 }
+------
+#include <stdio.h>
+
+int main() {
+    float speed = 20000; // km/h
+    float time = 5;      // hours
+
+    float distance = speed * time;
+
+    printf("Distance traveled: %.2f km\n", distance);
+    return 0;
+}
