@@ -314,4 +314,14 @@ int main() {
     printf("3... 2... 1... Liftoff!\n");
     return 0;
 }
-    
+-----------
+
+#include <stdio.h>
+
+int main() {
+    char name[20] = "Ayush";
+    int age = 23;
+
+    printf("Astronaut: %s\nAge: %d\n", name, age);
+    return 0;
+}
