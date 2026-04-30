@@ -393,3 +393,14 @@ int main() {
     return 0;
 }
     
+-----
+#include <stdio.h>
+
+float gravity(float mass) {
+    return mass * 9.8;
+}
+
+int main() {
+    printf("Weight: %.2f N\n", gravity(70));
+    return 0;
+}
