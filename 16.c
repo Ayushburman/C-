@@ -10,6 +10,16 @@ GitHub Settings → Profile → ContributionsGitHub Settings → Profile → Con
 
 Enable:main
   GitHub Settings → Profile → Contributions
+
+Enable:main
+
+or merged into main.
+
+If you commit only on side branches and never merge, they may not appear.
+
+Repo may be private with private contributions hidden
+main
+  GitHub Settings → Profile → Contributions
 GitHub Settings → Profile → Contributions
 
 Enable:main
