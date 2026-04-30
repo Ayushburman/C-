@@ -468,3 +468,12 @@ int main() {
 
     return 0;
 }
+------
+#include <stdio.h>
+
+int main() {
+    int x = 10, y = 20;
+
+    printf("Coordinates: (%d, %d)\n", x, y);
+    return 0;
+}
