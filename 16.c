@@ -11,6 +11,16 @@ or merged into main.
 
 If you commit only on side branches and never merge, they may not appear.
 
+  GitHub Settings → Profile → Contributions
+
+Enable:main
+
+or merged into main.
+
+If you commit only on side branches and never merge, they may not appear.
+
+Repo may be private with private contributions hidden
+main
 Repo may be private with private contributions hidden
 main
 
