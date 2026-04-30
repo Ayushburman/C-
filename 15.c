@@ -351,3 +351,16 @@ int main() {
     printf("Distance traveled: %.2f km\n", distance);
     return 0;
 }
+------
+#include <stdio.h>
+
+int main() {
+    int oxygen = 30;
+
+    if(oxygen < 40)
+        printf("⚠️ Low oxygen!\n");
+    else
+        printf("Oxygen level stable.\n");
+
+    return 0;
+}
