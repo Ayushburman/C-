@@ -454,3 +454,17 @@ int main() {
     printf("Fuel used: %d liters\n", fuel_used(5));
     return 0;
 }
+
+-----
+#include <stdio.h>
+
+int main() {
+    int alien = 1;
+
+    if(alien)
+        printf("👽 Alien detected!\n");
+    else
+        printf("All clear.\n");
+
+    return 0;
+}
