@@ -307,3 +307,11 @@ int main(){
     printf("%s\n", name);
 }
 --------------
+#include <stdio.h>
+
+int main() {
+    printf("🚀 Initiating launch sequence...\n");
+    printf("3... 2... 1... Liftoff!\n");
+    return 0;
+}
+    
