@@ -526,3 +526,12 @@ int main() {
     printf("Binary signal: %d\n", signal);
     return 0;
 }
+----
+#include <stdio.h>
+
+int main() {
+    for(int day = 1; day <= 7; day++)
+        printf("Day %d in space\n", day);
+
+    return 0;
+}
