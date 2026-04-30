@@ -443,3 +443,14 @@ int main() {
     printf("Crew: %s Rank: %d\n", c.name, c.rank);
     return 0;
 }
+-----
+#include <stdio.h>
+
+int fuel_used(int hours) {
+    return hours * 10;
+}
+
+int main() {
+    printf("Fuel used: %d liters\n", fuel_used(5));
+    return 0;
+}
