@@ -430,3 +430,16 @@ int main() {
 
     return 0;
 }
+-----
+#include <stdio.h>
+
+struct Crew {
+    char name[20];
+    int rank;
+};
+
+int main() {
+    struct Crew c = {"Neo", 1};
+    printf("Crew: %s Rank: %d\n", c.name, c.rank);
+    return 0;
+}
