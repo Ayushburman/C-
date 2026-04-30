@@ -418,3 +418,15 @@ int main() {
 }
 
 -----
+#include <stdio.h>
+
+int main() {
+    int signal = 5;
+
+    while(signal > 0) {
+        printf("Signal strength: %d\n", signal);
+        signal--;
+    }
+
+    return 0;
+}
