@@ -3,6 +3,6 @@ A comparison of different pizza styles based on their core components and prepar
 ##  Table
 ---
 | Component     |  Traditional (Italian)            | American                    | Artisan                             |Fast Food                          |
-| **Base**     | Thin, Neapolitan                | Medium-thick, pan           |
+| **Base**     | Thin, Neapolitan                | Medium-thick, pan           | Sourdough, wood-fired thin          |
 
 BASE -
