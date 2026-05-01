@@ -16,6 +16,26 @@ A comparison of different pizza styles based on their core components and prepar
 ---
 
 
+> Every component choice affects every other.
+
+For example:
+
+- A **wet fresh mozzarella** requires **higher temperature and faster cooking**
+- A **thicker base** pairs better with **longer bake times**
+- **Minimal toppings** highlight ingredient quality, while **layered toppings** emphasize richness
+
+---
+
+## ⚙️ Understanding the System
+
+Pizza is not just ingredients — it's a **system of interactions**:
+
+- Base thickness ↔ Cooking method  
+- Moisture content ↔ Temperature  
+- Sauce type ↔ Flavor balance  
+- Cheese type ↔ Texture and melt behavior  
+
+---
 
 
 
