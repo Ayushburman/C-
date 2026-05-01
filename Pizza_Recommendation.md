@@ -45,4 +45,4 @@ Pizza is not just ingredients — it's a **system of interactions**:
 -----
 
 > Choose Sauces -> [ Raw San Marzano ] , [Cooked sweet tomato ] , [Varied — pesto] , [white, olive oil  ] , [ Cooked], [standardised  ]
-> Choose Cheese -> Fior di latte , buffalo mozzarella ,  Low-moisture mozzarella
+> Choose Cheese -> Fior di latte , buffalo mozzarella ,  Low-moisture mozzarella, Burrata, goat, gorgonzola 
