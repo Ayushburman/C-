@@ -40,4 +40,4 @@ Pizza is not just ingredients — it's a **system of interactions**:
 **CODE** : 
 
 > What Type of BASE you would like ?
-> > Thin, Neapolitan | Medium-thick, pan | 
+> > Thin, Neapolitan | Medium-thick, pan | Sourdough, wood-fired thin | 
