@@ -1,1 +1,4 @@
+A comparison of different pizza styles based on their core components and preparation methods.
+
+---
 BASE - 
