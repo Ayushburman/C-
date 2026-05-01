@@ -44,4 +44,4 @@ Pizza is not just ingredients — it's a **system of interactions**:
 
 -----
 
-### Choose Sauces -> [ Raw San Marzano ] , [Cooked sweet tomato ]
+### Choose Sauces -> [ Raw San Marzano ] , [Cooked sweet tomato ] , [Varied — pesto] , [white, olive oil  ] , 
