@@ -46,4 +46,4 @@ Pizza is not just ingredients — it's a **system of interactions**:
 
 > Choose Sauces -> [ Raw San Marzano ] , [Cooked sweet tomato ] , [Varied — pesto] , [white, olive oil  ] , [ Cooked], [standardised  ]
 > Choose Cheese -> Fior di latte , buffalo mozzarella ,  Low-moisture mozzarella, Burrata, goat, gorgonzola ,  Low-moisture processed blend
->  **Toppings** -> Tomato , Onion , Cheese , basil Pepperoni , Sausage (Italian sausage) , Ham , Bacon , Chicken , Salami , Ground beef
+>  **Toppings** -> Mushrooms ,Onions, Bell peppers, Olives (black/green), Spinach, Tomatoes, Corn (popular in Asia/India), Jalapeños, Cheese, basil Pepperoni, Sausage (Italian sausage), Ham, Bacon, Chicken, Salami, Ground beef
