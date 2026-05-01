@@ -5,6 +5,6 @@ A comparison of different pizza styles based on their core components and prepar
 | Component     |  Traditional (Italian)            | American                    | Artisan                             |Fast Food                          |
 | **Base**      | Thin, Neapolitan                  | Medium-thick, pan           | Sourdough, wood-fired thin          | Medium, conveyor-optimised        |
 | **Cheese**    |  Fior di latte, buffalo mozzarella|  Low-moisture mozzarella    |   Burrata, goat, gorgonzola         | Low-moisture processed blend      |
-| **Toppings**  |  Minimal — 2 to 3                 | Generous, layered           |
+| **Toppings**  |  Minimal — 2 to 3                 | Generous, layered           | Seasonal, local, unconventional     | 
 
 BASE -
