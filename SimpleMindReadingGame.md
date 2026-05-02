@@ -20,3 +20,6 @@ int main() {
     printf("Your number      : %d\n", number);
  int step = number * 2;
     printf("After doubling   : %d\n", step);
+
+    step = step + 10;
+    printf("After adding 10  : %d\n", step);
