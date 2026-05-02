@@ -133,7 +133,7 @@ Polynomial
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 This program assumes:
 
