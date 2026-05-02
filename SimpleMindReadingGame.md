@@ -34,18 +34,6 @@ This is called an **algebraic identity** — the result is fixed regardless of i
  
 ---
  
-## Variations
- 
-| Add this in Step 3 | Final Answer |
-|--------------------|--------------|
-| 10                 | 5            |
-| 20                 | 10           |
-| 14                 | 7            |
- 
-Change the number you add in Step 3 to any **even number** → divide by 2 → you control the final answer.
- 
----
- 
-
+\
  
 
