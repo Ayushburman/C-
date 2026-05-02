@@ -24,7 +24,6 @@ To understand and apply:
 
 ##  How It Works
 
-### 🧠 Core Idea
 
 A polynomial consists of terms separated by:
 
