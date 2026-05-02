@@ -54,7 +54,7 @@ So:
 
 ---
 
-## 💻 Code
+##  Code
 
 ```c
 #include <stdio.h>
