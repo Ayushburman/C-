@@ -153,13 +153,7 @@ It may not handle:
 
 ---
 
-## 🧠 Key Concepts Learned
 
-* `fgets()` for safe string input
-* String traversal using loops
-* Character comparison
-* Problem simplification
-* Basic compiler-like thinking
 
 ---
 
