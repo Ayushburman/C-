@@ -22,6 +22,11 @@ No matter what number is chosen, the result is always 5.
 
 
 
+Key Idea
+The trick works because every operation is reversible and balanced — the original number is introduced, manipulated, and then perfectly cancelled by the final subtraction.
+This is called an algebraic identity — the result is fixed regardless of input.
+
+
 
 
 
