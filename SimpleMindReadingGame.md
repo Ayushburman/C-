@@ -46,16 +46,6 @@ Change the number you add in Step 3 to any **even number** → divide by 2 → y
  
 ---
  
-## Performance Tips
- 
-- Pause before revealing → builds suspense
-- Say *"I sense an odd number… less than 10… it is **5**"*
-- Repeat with a different even number to change the magic answer
- 
-
-
-
-    int number;
 
  
 
