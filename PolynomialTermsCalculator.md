@@ -37,7 +37,7 @@ So:
 
 ---
 
-## 🧩 Algorithm
+## Algorithm
 
 1. Take polynomial input as a string using `fgets`
 2. Initialize `terms = 1`
