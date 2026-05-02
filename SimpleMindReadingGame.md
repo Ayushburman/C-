@@ -18,3 +18,5 @@ int main() {
     scanf("%d", &number);
  printf("\nStep-by-step:\n");
     printf("Your number      : %d\n", number);
+ int step = number * 2;
+    printf("After doubling   : %d\n", step);
