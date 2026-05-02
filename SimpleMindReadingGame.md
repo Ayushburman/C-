@@ -27,7 +27,9 @@ The trick works because every operation is reversible and balanced — the origi
 This is called an algebraic identity — the result is fixed regardless of input.
 
 
-
+Variations
+Add this in Step 3Final Answer1052010147
+Change the number you add in Step 3 to any even number → divide by 2 → you control the final answer.
 
 
 
