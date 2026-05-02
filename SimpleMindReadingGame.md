@@ -1,3 +1,22 @@
+Mind Reading Trick — How It Works
+The Trick
+Tell your friend to follow these steps silently in their head:
+
+Think of any number
+Double it
+Add 10
+Divide by 2
+Subtract the original number
+
+Then confidently say → "Your answer is 5."
+
+
+
+
+
+
+
+
 ```
 #include <stdio.h>
 
