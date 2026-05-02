@@ -25,3 +25,5 @@ int main() {
     printf("After adding 10  : %d\n", step);
     step = step / 2;
     printf("After halving    : %d\n", step);
+  step = step - number;
+    printf("After subtracting: %d\n", step);
