@@ -133,13 +133,6 @@ Polynomial
 
 ---
 
-##  Limitations
-
-This program assumes:
-
-* Proper formatting of input
-* Terms are separated using `+` or `-`
-* No advanced parsing of expressions
 
 It may not handle:
 
