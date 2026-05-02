@@ -16,3 +16,5 @@ int main() {
     printf("=== MIND READING TRICK ===\n\n");
     printf("Think of any number: ");
     scanf("%d", &number);
+ printf("\nStep-by-step:\n");
+    printf("Your number      : %d\n", number);
