@@ -192,17 +192,7 @@ This project can be extended into:
 
 ---
 
-## 👨‍💻 Author
 
-**Ayush Burman**
-
----
-
-## ⭐ If you found this useful
-
-Give the repo a ⭐ and keep building!
-
----
 
 
 
