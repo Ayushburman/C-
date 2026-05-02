@@ -67,11 +67,4 @@ Change the number you add in Step 3 to any **even number** → divide by 2 → y
     int step = number * 2;
     printf("After doubling   : %d\n", step);
 
-    step = step + 10;
-    printf("After adding 10  : %d\n", step);
-
-    step = step / 2;
-    printf("After halving    : %d\n", step);
-
-    step = step - number;
 
