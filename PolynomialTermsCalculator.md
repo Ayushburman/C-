@@ -156,16 +156,3 @@ It may not handle:
 
 
 ---
-
-## 📂 Project Structure
-
-```
-Polynomial-Type-Detector/
-│
-├── main.c
-└── README.md
-```
-
----
-
-
