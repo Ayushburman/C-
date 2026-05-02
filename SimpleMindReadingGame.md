@@ -27,3 +27,10 @@ int main() {
     printf("After halving    : %d\n", step);
   step = step - number;
     printf("After subtracting: %d\n", step);
+
+
+    printf("\n🎯 Your answer is: %d\n", step);
+    printf("It's always 5. Magic? No — just algebra!\n");
+
+    return 0;
+}
