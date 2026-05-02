@@ -142,17 +142,4 @@ It may not handle:
 
 ---
 
-## Possible Improvements
 
-* Remove newline (`\n`) from input
-* Ignore extra spaces
-* Validate polynomial syntax
-* Extract coefficients and powers
-* Find degree of polynomial
-* Build a full polynomial parser
-
----
-
-
-
----
