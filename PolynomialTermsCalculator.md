@@ -168,25 +168,4 @@ Polynomial-Type-Detector/
 
 ---
 
-## 🔥 Future Scope
-
-This project can be extended into:
-
-* Polynomial calculator
-* Symbolic algebra system
-* Expression evaluator
-* Mini compiler/parser
-
----
-
-
-
-
-
-
-
-
-
-#include <stdio.h>
-#include <string.h>
 
