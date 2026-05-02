@@ -89,7 +89,7 @@ int main() {
 
 ---
 
-## ▶️ Example Runs
+##  Example Runs
 
 ### Input:
 
