@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 
 int mindReading(int x) {
@@ -7,7 +8,7 @@ int mindReading(int x) {
     x = x - (x - 5); // Step 4: Subtract original (always gives 5)
     return x;
 }
-```
+
 int main() {
     int number;
 
