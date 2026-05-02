@@ -149,7 +149,7 @@ It may not handle:
 
 ---
 
-## 🚀 Possible Improvements
+## Possible Improvements
 
 * Remove newline (`\n`) from input
 * Ignore extra spaces
