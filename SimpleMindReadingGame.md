@@ -57,14 +57,5 @@ Change the number you add in Step 3 to any **even number** → divide by 2 → y
 
     int number;
 
-    printf("=== MIND READING TRICK ===\n\n");
-    printf("Think of any number: ");
-    scanf("%d", &number);
-
-    printf("\nStep-by-step:\n");
-    printf("Your number      : %d\n", number);
-
-    int step = number * 2;
-    printf("After doubling   : %d\n", step);
-
+ 
 
