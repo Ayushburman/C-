@@ -74,12 +74,4 @@ Change the number you add in Step 3 to any **even number** → divide by 2 → y
     printf("After halving    : %d\n", step);
 
     step = step - number;
-    printf("After subtracting: %d\n", step);
 
-    printf("\n Your answer is: %d\n", step);
-    printf("It's always 5. Magic? No — just algebra!\n");
-
-    return 0;
-}
-
-```
