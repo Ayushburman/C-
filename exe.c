@@ -9,7 +9,12 @@ int main() {
     struct sockaddr_in server;
     char message[] = "Hello Server";
 
-    sock = socket(AF_INET, SOCK_STREAM, 0);
+    sock = socket(AF_INET, SOCK_STREAM, 0);int main() {
+    int sock;
+    struct sockaddr_in server;
+    char message[] = "Hello Server";
+
+    sock = socket(AF_INET, SOCK_STR
 
     server.sin_addr.s_addr = inet_addr("127.0.0.1");
     server.sin_family = AF_INET;
