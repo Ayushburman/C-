@@ -1,8 +1,4 @@
-
-    struct sockaddr_in server;
-    char message[] = "Hello Server";
-
-    sock = socket(AF_INET, SOCK_STR
+STR
     close(sock);
 int main() {
     int sock;
