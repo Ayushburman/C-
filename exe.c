@@ -1,10 +1,4 @@
-
-#include <arpa/inet.h>
-
-int main() {
-    int sock;
-    struct sockaddr_in server;
-    char message[] = "Hello Server";
+ Server";
     // tcp_client.c
 #include <stdio.h>
 #include <string.h>
