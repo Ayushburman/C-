@@ -189,3 +189,19 @@ int main() {
 }
 ----------------------------------
 // 9. DNS Lookup Tool: Networking utility.
+// dns_lookup.c
+#include <stdio.h>
+#include <netdb.h>
+#include <arpa/inet.h>
+
+int main() {
+    struct hostent *host;
+
+    host = gethostbyname("google.com");
+
+    printf("IP: %s\n",
+        inet_ntoa(*(struct in_addr *)host->h_addr));
+
+    return 0;
+}
+------------------------------------
