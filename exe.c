@@ -30,3 +30,6 @@ int main() {
 
     return 0;
 }
+
+// Compile - gcc tcp_client.c -o client
+
