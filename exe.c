@@ -35,7 +35,8 @@ int main() {
 
 ------------------------------------------------
 ------------------------------------------------
- //  2. TCP Server: Listens for incoming connections.
+
+//  2. TCP Server: Listens for incoming connections.
 
 // tcp_server.c
 #include <stdio.h>
