@@ -150,5 +150,13 @@ int main() {
 }
 --------------------------------------------------
 // 6. Ping Program (ICMP): Simplified network diagnostic tool.
+   // ping.c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    system("ping -c 4 google.com");
+    return 0;
+}
 
    
