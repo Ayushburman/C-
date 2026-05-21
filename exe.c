@@ -160,4 +160,13 @@ int main() {
 }
 -----------------------------------------------
 // 7. Process Monitor: Linux system monitoring
+   // process_monitor.c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    system("ps aux");
+    return 0;
+}
+--------------------------------------------
    
