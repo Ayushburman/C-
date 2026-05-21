@@ -219,7 +219,8 @@ int main() {
     return 0;
 }
 ------------------------------------
-// 10. Reverse Shell (Educational Only): Important cybersecurity concept.
+------------------------------------
+//10. Reverse Shell (Educational Only): Important cybersecurity concept.
 
    // reverse_shell.c
 #include <stdio.h>
