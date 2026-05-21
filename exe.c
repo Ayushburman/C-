@@ -34,6 +34,7 @@ int main() {
 // Compile - gcc tcp_client.c -o client
 
 ------------------------------------------------
+------------------------------------------------
  //  2. TCP Server: Listens for incoming connections.
 
 // tcp_server.c
