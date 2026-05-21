@@ -36,4 +36,39 @@ int main() {
 ------------------------------------------------
  //  2. TCP Server: Listens for incoming connections.
 
-   
+// tcp_server.c
+#include <stdio.h>
+#include <string.h>
+#include <unistd.h>
+#include <arpa/inet.h>
+
+int main() {
+    int server_fd, client_sock;
+    struct sockaddr_in server, client;
+    socklen_t c;
+
+    char buffer[1024];
+
+    server_fd = socket(AF_INET, SOCK_STREAM, 0);
+
+    server.sin_family = AF_INET;
+    server.sin_addr.s_addr = INADDR_ANY;
+    server.sin_port = htons(8080);
+
+    bind(server_fd, (struct sockaddr *)&server, sizeof(server));
+
+    listen(server_fd, 3);
+
+    c = sizeof(struct sockaddr_in);
+
+    client_sock = accept(server_fd, (struct sockaddr *)&client, &c);
+
+    recv(client_sock, buffer, sizeof(buffer), 0);
+
+    printf("Message: %s\n", buffer);
+
+    close(client_sock);
+    close(server_fd);
+
+    return 0;
+}
