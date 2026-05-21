@@ -149,3 +149,6 @@ int main() {
     return 0;
 }
 --------------------------------------------------
+// 6. Ping Program (ICMP): Simplified network diagnostic tool.
+
+   
