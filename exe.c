@@ -1,8 +1,4 @@
-REAM, 0);
 
-    server.sin_addr.s_addr = inet_addr("127.0.0.1");
-    server.sin_family = AF_INET;
-    server.sin_port = htons(8080);
 
     connect(sock, (struct sockaddr *)&server, sizeof(server));
 
