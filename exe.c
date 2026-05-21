@@ -170,3 +170,21 @@ int main() {
 }
 --------------------------------------------
  // 8. File Integrity Checker: Cybersecurity utility for detecting file changes
+// file_checker.c
+#include <stdio.h>
+
+int main() {
+    FILE *fp;
+    char ch;
+
+    fp = fopen("test.txt", "r");
+
+    while((ch = fgetc(fp)) != EOF) {
+        printf("%c", ch);
+    }
+
+    fclose(fp);
+
+    return 0;
+}
+----------------------------------
