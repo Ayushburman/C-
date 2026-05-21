@@ -1,14 +1,5 @@
 
 
-    connect(sock, (struct sockaddr *)&server, sizeof(server));
-
-    send(sock, message, strlen(message), 0);
-
-    close(sock);
-
-    return 0;
-}
-
     sock = socket(AF_INET, SOCK_STREAM, 0);
 
     server.sin_addr.s_addr = inet_addr("127.0.0.1");
