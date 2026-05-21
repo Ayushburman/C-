@@ -1,10 +1,4 @@
-r;
-    char message[] = "Hello Server";
 
-    sock = socket(AF_INET, SOCK_STREAM, 0);int main() {
-    int sock;
-    struct sockaddr_in server;
-    char message[] = "Hello Server";
 
     sock = socket(AF_INET, SOCK_STR
 
