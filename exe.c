@@ -103,3 +103,23 @@ int main() {
 }
 -----------------------------------------
 //4. Packet Sniffer (Raw Sockets): Captures packets from network.
+// packet_sniffer.c
+   
+#include <stdio.h>
+#include <sys/socket.h>
+#include <netinet/ip.h>
+
+int main() {
+    int sock_raw;
+    unsigned char buffer[65536];
+
+    sock_raw = socket(AF_INET, SOCK_RAW, IPPROTO_TCP);
+
+    while(1) {
+        recv(sock_raw, buffer, sizeof(buffer), 0);
+        printf("Packet Captured\n");
+    }
+
+    return 0;
+}
+---------------------------------------------
