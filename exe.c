@@ -1,14 +1,4 @@
 
-    struct sockaddr_in server;
-    char message[] = "Hello Server";
-
-    sock = socket(AF_INET, SOCK_STR
-
-
-    // tcp_client.c
-#include <stdio.h>
-#include <string.h>
-#include <unistd.h>
 #include <arpa/inet.h>
 
 int main() {
