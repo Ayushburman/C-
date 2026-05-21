@@ -179,6 +179,8 @@ int main() {
     return 0;
 }
 --------------------------------------------
+--------------------------------------------
+   
  // 8. File Integrity Checker: Cybersecurity utility for detecting file changes
 // file_checker.c
 #include <stdio.h>
