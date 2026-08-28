@@ -32,6 +32,7 @@ int main() {
     printf("Gravity: %.1f\n", GRAVITY);
     return 0;
 }
+
 --------------------------------
 // OUTPUT - Gravity: 100.8
 -------------------------------
