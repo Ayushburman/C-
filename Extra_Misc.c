@@ -22,7 +22,8 @@ int main() {
 // OUTPUT -
     5972-12563-145263
 ---------------------------------
-rd 
+    
+
 // 3 
 #include <stdio.h>
 #define GRAVITY 100.8
