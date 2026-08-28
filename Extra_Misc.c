@@ -60,6 +60,7 @@ int main() {
     printf("Total: %d\n", Batteries + WIRES);
     return 0;
 }
+
 --------------------------------
 // OUTPUT Total: 105
 -------------------------------
