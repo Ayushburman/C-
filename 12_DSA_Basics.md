@@ -2067,6 +2067,6 @@ Trie / DSU / Advanced Graphs
 ## 🎯 For GATE CSE
 
 Since you're also 
-**Pointers → Arrays → Recursion → Complexity → Linked Lists → Stack/Queue → Trees/BST → Heap → Hashing → Graphs → Sorting → Algorithms.**
+**Pointers → Arrays → Recursion → Linked Lists → Stack/Queue → Trees/BST → Heap → Hashing → Graphs → Sorting → Algorithms.**
 
 And don't just memorize complexities. For GATE, you should be able to **trace C code, determine output, analyze loops/recursion, understand pointer 
