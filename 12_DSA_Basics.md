@@ -20,6 +20,7 @@ Before DSA, you should be comfortable with:
 9. Structures
 10. Dynamic memory allocation
 
+
 ---
 
 # PART A — C PROGRAMMING
