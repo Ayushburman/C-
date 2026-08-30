@@ -68,6 +68,9 @@ float price = 10.5;
 double pi = 3.141592;
 ```
 
+
+
+
 ### Typical sizes
 
 | Type     | Typical size |
