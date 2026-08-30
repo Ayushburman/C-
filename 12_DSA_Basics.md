@@ -93,6 +93,8 @@ printf("%zu", sizeof(int));
 
 ---
 
+
+
 # 3. Input and Output
 
 ```c
