@@ -39,6 +39,7 @@ int main() {
 
 ### Important parts
 
+
 | Component            | Purpose                       |
 | -------------------- | ----------------------------- |
 | `#include <stdio.h>` | Includes standard I/O library |
