@@ -1,5 +1,5 @@
 
-Absolutely. Here is a **from-scratch DSA + C programming notes roadmap**, designed especially for **GATE CSE, college exams, coding interviews, and 
+Absolutely. Here is a **from-scratch DSA + C programming notes roadmap**, designed especially for **GATE CSE, college exams, coding interviews,
 # Complete DSA Notes in C — From Scratch
 
 ## 0. Prerequisites
