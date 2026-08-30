@@ -1,5 +1,5 @@
 
-Absolutely. Here is a **from-scratch
+Absolutely. Here is a **from-
 # Complete DSA Notes in C — From 
 
 ## 0. Prerequisites
