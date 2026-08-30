@@ -1,5 +1,5 @@
 
-Absolutely. Here is a **from-scratch DSA + C programming 
+Absolutely. Here is a **from-scratch DSA + C 
 # Complete DSA Notes in C — From 
 
 ## 0. Prerequisites
