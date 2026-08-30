@@ -1,5 +1,5 @@
 
-Absolutely. Here is a **from-scratch DSA + C programming notes roadmap**, designed 
+Absolutely. Here is a **from-scratch DSA + C programming notes roadmap**, 
 # Complete DSA Notes in C — From 
 
 ## 0. Prerequisites
