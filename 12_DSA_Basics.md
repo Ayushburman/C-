@@ -36,6 +36,7 @@ int main() {
 }
 ```
 
+
 ### Important parts
 
 | Component            | Purpose                       |
