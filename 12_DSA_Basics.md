@@ -83,6 +83,8 @@ double pi = 3.141592;
 | `double` |      8 bytes |
 
 
+
+
 > Exact sizes are implementation-dependent; use `sizeof()` when you need certainty.
 
 ```c
